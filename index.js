@@ -703,7 +703,7 @@ app.get('/', (req, res) => {
     <nav class="navbar">
         <div class="nav-container">
             <div class="logo">
-                <h1><i class="fas fa-gem"></i> Elegance</h1>
+                <h1><i class="fas fa-gem"></i> Kowsi's Elegance</h1>
             </div>
             <ul class="nav-menu">
                 <li><a href="#home" class="nav-link active">Home</a></li>
